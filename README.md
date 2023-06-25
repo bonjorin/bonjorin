@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bonjorin
-- 🌱 I’m currently learning ... JavaScript, Python, HTML
-- 📫 How to reach me ... Polar#0367
+- 🌱 I’m currently learning ... JavaScript, Python, C#
+- 📫 How to reach me ... shoebills
 
 <!---
 bonjorin/bonjorin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
